@@ -20,14 +20,17 @@ import org.w3c.dom.NodeList;
  * @author ekansh_gupta
  */
 public class JIRADataParser {
+    
     /**
      * static variable storing the class name.
      */
     private static final String CLASSNAME = JIRADataParser.class.getName();
+    
     /**
      * Java Util logger to log all the exceptions.
      */
     private static final Logger LOGS = Logger.getLogger(CLASSNAME);
+    
     /**
      * Reading an xml file and converting it to a document.
      * @param fileName filename with path for the file to be read.
@@ -46,7 +49,7 @@ public class JIRADataParser {
     }
     /**
      * Extracting information from each issue individually.
-     * @param element
+     * @param element xml element to extract information from.
      * @return JIRADto object to be put in the Map.
      */
     private JIRADto getDataFromElement(Element element) {
@@ -77,6 +80,7 @@ public class JIRADataParser {
         }
         return jiraDto;
     }
+    
     /**
      * The method extracts information from a JIRA xml to be be mapped
      * to toggl data.

@@ -158,6 +158,7 @@ public class JIRADto {
     public void setAssignee(String assignee) {
         this.assignee = assignee;
     }
+    
     /**
      * Method to return a combined string.
      * @return a string.

@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package aquorn.csvparser;
 
 import aquorn.dto.TogglDto;
@@ -17,9 +12,11 @@ import java.util.logging.Logger;
 /**
  * This class extracts data from a Toggl csv and 
  * puts it in a TogglDTO object.
+ * Methods - extractDataFromCSV.
  * @author ekansh_gupta
  */
 public class TogglDataParser {
+    
     /**
      * name of the class.
      */
@@ -28,6 +25,7 @@ public class TogglDataParser {
      * Logger for logging exceptions.
      */
     private static final Logger LOGS = Logger.getLogger(CLASSNAME);
+    
     /**
      * The method reads a line and returns a equivalent TogglDto.
      * @param line with comma separated values from CSV.
@@ -48,8 +46,10 @@ public class TogglDataParser {
         }
         return togglDto;
     }
+    
     /**
-     * 
+     * This method is used for extracting information 
+     * from a Toggl csv.
      * @param fileName of the csv to be extracted.
      * @return a map with a TogglDTO.
      */
@@ -78,7 +78,8 @@ public class TogglDataParser {
     //TODO remove the main method after testing.
     public static void main (String[] args) {
         TogglDataParser parser = new TogglDataParser();
-        Map<String,TogglDto> output = parser.extractDataFromCSV("data/toggl.csv"); 
+        Map<String,TogglDto> output = 
+                parser.extractDataFromCSV("data/toggl.csv"); 
         for (TogglDto out : output.values()) {
             System.out.println(out.toString());
         }
