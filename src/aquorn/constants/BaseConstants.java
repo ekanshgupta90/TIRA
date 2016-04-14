@@ -48,4 +48,43 @@ public class BaseConstants {
     /***************************************************************************
      * JIRA Constants - END
      **************************************************************************/
+    
+    /***************************************************************************
+     * Toggl Constants - START
+     **************************************************************************/
+    /**
+     * User who enters the time tracking task.
+     */
+    public static String TOGGL_USER = "user";
+    /**
+     * Description of the task.
+     */
+    public static String TOGGL_DESC = "description";
+    /**
+     * Start date for a task.
+     */
+    public static String TOGGL_START_DATE = "start_date";
+    /**
+     * End date for a task.
+     */
+    public static String TOGGL_END_DATE = "end_date";
+    /**
+     * Start time for a task.
+     */
+    public static String TOGGL_START_TIME = "start_time";
+    /**
+     * End time for a task.
+     */
+    public static String TOGGL_END_TIME = "end_time";
+    /**
+     * Total duration for a task.
+     */
+    public static String TOGGL_DURATION = "duration";
+    /**
+     * All the associated tags separated by commas.
+     */
+    public static String TOGGL_TAGS = "tags";
+    /***************************************************************************
+     * Toggl Constants - END
+     **************************************************************************/
 }
