@@ -1,0 +1,653 @@
+﻿User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount (USD)
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Decision Making,Yes,2016-01-02,13:00:00,2016-01-02,13:30:00,00:30:00,Reading,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-11,12:00:00,2016-01-11,13:30:00,01:30:00,"Meeting, Team Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Initial team meeting,Yes,2016-01-11,12:00:00,2016-01-11,13:30:00,01:30:00,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-11,12:00:46,2016-01-11,12:02:05,00:01:19,TeamMeeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-11,12:00:59,2016-01-11,13:00:59,01:00:00,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-11,12:30:24,2016-01-11,13:30:26,01:00:02,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:00:00,01:00:00,"Meeting, Mentor Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:16:25,01:16:25,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:00:00,01:00:00,Mentor Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,No,2016-01-12,12:00:15,2016-01-12,13:16:14,01:15:59,MentorMeeting,
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"Initial meeting with mentors (Mel, Andrew M)",Yes,2016-01-12,12:00:59,2016-01-12,13:16:15,01:15:16,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Boot Camp,Yes,2016-01-12,13:30:00,2016-01-12,14:50:00,01:20:00,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-12,13:30:00,2016-01-12,15:00:00,01:30:00,"Bootcamp, Class",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp 01/12,Yes,2016-01-12,13:30:17,2016-01-12,14:50:18,01:20:01,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 1/12/2016,Yes,2016-01-12,13:30:21,2016-01-12,14:41:51,01:11:30,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,No,2016-01-12,13:30:51,2016-01-12,14:50:10,01:19:19,Bootcamp,
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Assemble resources for requirements processes,Yes,2016-01-12,17:44:16,2016-01-12,18:44:16,01:00:00,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Prepare for and conduct initial customer meeting,Yes,2016-01-13,11:56:43,2016-01-13,13:27:57,01:31:14,Customer Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-01-13,12:24:40,2016-01-13,13:29:10,01:04:30,"Customer Meeting, Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-01-13,12:30:33,2016-01-13,13:30:35,01:00:02,"Client Meeting, Customer Meeting, Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Client Meeting ,Yes,2016-01-13,12:30:53,2016-01-13,13:30:53,01:00:00,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Domain Knowledge reading,Yes,2016-01-13,18:30:00,2016-01-13,19:00:00,00:30:00,Reading,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Domain reading and research,Yes,2016-01-13,20:24:48,2016-01-13,22:00:37,01:35:49,Research,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Reading customer document,Yes,2016-01-13,21:01:58,2016-01-13,22:31:00,01:29:02,"Reading, Study",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-14,13:22:07,2016-01-14,14:58:10,01:36:03,"Bootcamp, Class",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Boot Camp,Yes,2016-01-14,13:30:00,2016-01-14,14:50:00,01:20:00,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-14,13:30:00,2016-01-14,14:50:00,01:20:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 1/14/2016,Yes,2016-01-14,13:30:00,2016-01-14,14:49:57,01:19:57,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp 01/14,Yes,2016-01-14,13:30:02,2016-01-14,14:50:04,01:20:02,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Creating Agenda,Yes,2016-01-14,16:16:06,2016-01-14,17:20:40,01:04:34,"Meeting Prep, Preparations",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Organization,Yes,2016-01-14,16:52:58,2016-01-14,17:23:59,00:31:01,"Organization, Studio",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-15,13:23:23,2016-01-15,15:54:46,02:31:23,"Meeting, Team Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-15,13:30:01,2016-01-15,15:30:01,02:00:00,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-15,13:30:12,2016-01-15,15:30:37,02:00:25,TeamMeeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,First week reflection,Yes,2016-01-15,13:34:37,2016-01-15,16:02:55,02:28:18,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-15,14:00:00,2016-01-15,16:00:00,02:00:00,Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-01-15,14:06:27,2016-01-15,16:00:33,01:54:06,"Client Meeting, Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Creating TODO List,Yes,2016-01-15,15:54:44,2016-01-15,16:24:40,00:29:56,Meeting Prep,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Questions,Yes,2016-01-17,09:37:26,2016-01-17,10:20:24,00:42:58,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Communication Proposal,Yes,2016-01-17,10:20:54,2016-01-17,11:51:07,01:30:13,Documentation,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Research Decision Making,Yes,2016-01-17,11:25:59,2016-01-17,12:59:28,01:33:29,"Document, Study",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Document Template and Change management,Yes,2016-01-17,12:10:17,2016-01-17,13:11:00,01:00:43,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Schedule and Timeline,Yes,2016-01-17,16:51:48,2016-01-17,18:45:17,01:53:29,"Documentation, Individual Work",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Risk Document,Yes,2016-01-18,13:58:58,2016-01-18,14:01:27,00:02:29,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Roles Document,Yes,2016-01-18,15:16:57,2016-01-18,15:56:14,00:39:17,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Template - Process for technology selection,Yes,2016-01-18,21:20:07,2016-01-18,22:39:23,01:19:16,"General, Preparations",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Decision Making Document,Yes,2016-01-18,22:25:31,2016-01-18,23:01:34,00:36:03,Study,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Template - Process for technology selection,Yes,2016-01-18,22:40:17,2016-01-19,00:00:48,01:20:31,"General, Preparations",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Decision Making Document,Yes,2016-01-19,10:10:59,2016-01-19,11:21:03,01:10:04,Study,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Prep for team and mentor meeting,Yes,2016-01-19,11:00:01,2016-01-19,11:30:02,00:30:01,"Documentation, Organization",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team meeting and prep,Yes,2016-01-19,11:30:03,2016-01-19,12:30:39,01:00:36,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-19,11:30:37,2016-01-19,12:30:37,01:00:00,Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-19,11:36:09,2016-01-19,13:11:49,01:35:40,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-19,11:37:17,2016-01-19,12:30:13,00:52:56,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-19,11:39:26,2016-01-19,12:06:23,00:26:57,"Mentor Meeting, TeamMeeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-19,12:07:20,2016-01-19,13:25:55,01:18:35,TeamMeeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-19,12:30:13,2016-01-19,13:05:10,00:34:57,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-19,12:30:24,2016-01-19,13:13:38,00:43:14,Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-01-19,12:30:57,2016-01-19,13:00:57,00:30:00,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-19,13:28:18,2016-01-19,14:42:20,01:14:02,"Bootcamp, Class",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Boot camp,Yes,2016-01-19,13:30:00,2016-01-19,14:50:00,01:20:00,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp 01/19,Yes,2016-01-19,13:30:32,2016-01-19,14:50:32,01:20:00,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-19,13:30:40,2016-01-19,15:00:41,01:30:01,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-19,13:30:52,2016-01-19,14:50:57,01:20:05,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"Send out meeting minutes, emails, and other...",Yes,2016-01-19,15:00:26,2016-01-19,15:30:27,00:30:01,Organization,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Learning Plan,Yes,2016-01-19,18:11:21,2016-01-19,19:09:50,00:58:29,Research,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Learning Plan,Yes,2016-01-19,19:55:30,2016-01-19,21:56:02,02:00:32,Research,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Process for technology selection - Review,Yes,2016-01-20,00:13:08,2016-01-20,00:41:10,00:28:02,Document,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Organization/Meeting Scheduling,Yes,2016-01-20,11:54:06,2016-01-20,12:11:08,00:17:02,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-20,12:00:03,2016-01-20,13:05:07,01:05:04,"Meeting, Team Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-20,12:00:22,2016-01-20,13:05:38,01:05:16,Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting 01/20,Yes,2016-01-20,12:00:30,2016-01-20,13:05:33,01:05:03,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-01-20,12:00:59,2016-01-20,13:09:36,01:08:37,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-20,12:11:23,2016-01-20,13:05:35,00:54:12,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Roles Document,No,2016-01-21,11:04:49,2016-01-21,11:36:55,00:32:06,"Document, Process, Research",
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Roles Document,No,2016-01-21,11:49:05,2016-01-21,12:26:09,00:37:04,"Document, Process, Research",
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Agenda - team meeting,No,2016-01-21,12:26:14,2016-01-21,12:44:21,00:18:07,"Agenda, Meeting Prep",
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-21,13:29:48,2016-01-21,14:58:50,01:29:02,"Bootcamp, Class",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Boot camp,Yes,2016-01-21,13:30:00,2016-01-21,14:50:00,01:20:00,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp 01/21,Yes,2016-01-21,13:30:05,2016-01-21,14:50:06,01:20:01,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 1/21/2016,Yes,2016-01-21,13:30:25,2016-01-21,14:49:46,01:19:21,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,No,2016-01-21,13:30:50,2016-01-21,14:47:52,01:17:02,Bootcamp,
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Developing lesson 01,Yes,2016-01-21,17:02:26,2016-01-21,18:08:51,01:06:25,Research,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-21,18:53:00,2016-01-21,21:05:00,02:12:00,"Meeting, Team Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-21,19:00:16,2016-01-21,21:06:28,02:06:12,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,No,2016-01-21,19:00:19,2016-01-21,20:48:30,01:48:11,"KT, Team Meeting",
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-01-21,19:01:00,2016-01-21,21:06:43,02:05:43,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-21,19:05:07,2016-01-21,21:05:12,02:00:05,Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-01-21,20:30:18,2016-01-21,21:00:18,00:30:00,Individual Mentor Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,No,2016-01-21,20:48:32,2016-01-21,21:08:32,00:20:00,"KT, Team Meeting",
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Prep-Client Meeting,No,2016-01-21,21:15:36,2016-01-21,21:27:04,00:11:28,Meeting Prep,
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Domain research,No,2016-01-22,01:50:09,2016-01-22,02:12:51,00:22:42,Domain Research,
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Client meeting prep,Yes,2016-01-22,13:00:00,2016-01-22,13:30:00,00:30:00,Organization,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Eliciting high-level goals and requirements,Yes,2016-01-22,13:40:22,2016-01-22,15:41:03,02:00:41,Client Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,No,2016-01-22,13:55:06,2016-01-22,15:36:57,01:41:51,Client Meeting,
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-01-22,14:00:10,2016-01-22,15:30:11,01:30:01,"Client Meeting, Customer Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Client Meeting ,Yes,2016-01-22,14:00:35,2016-01-22,15:34:00,01:33:25,Client Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-01-22,14:01:44,2016-01-22,15:33:07,01:31:23,"Customer Meeting, Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,No,2016-01-22,15:38:55,2016-01-22,15:42:52,00:03:57,Client Meeting,
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Icon Creation,Yes,2016-01-22,20:30:52,2016-01-22,21:55:50,01:24:58,Design,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Documents,Yes,2016-01-23,11:07:56,2016-01-23,11:56:46,00:48:50,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting - 01/23,Yes,2016-01-23,13:00:00,2016-01-23,15:26:03,02:26:03,"Meeting, Team Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting - Bootcamp presentation,Yes,2016-01-23,13:00:06,2016-01-23,15:30:56,02:30:50,Client Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-23,13:08:06,2016-01-23,15:28:44,02:20:38,"Meeting, Team Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp Presentation,Yes,2016-01-23,13:08:11,2016-01-23,16:07:08,02:58:57,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Working on bootcamp presentation,Yes,2016-01-23,13:08:15,2016-01-23,15:26:19,02:18:04,"Bootcamp, Presentation, Team Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Migrating Toggl data,Yes,2016-01-23,16:05:20,2016-01-23,16:22:12,00:16:52,"Migration, Toggl",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Email to Andrew,Yes,2016-01-23,18:52:00,2016-01-23,19:30:00,00:38:00,Organization,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Miscellaneous emails and document proofing,Yes,2016-01-24,15:40:00,2016-01-24,16:30:00,00:50:00,"Documentation, Organization",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"Email, Learning Plan Ideas, Review for the week, reading documentation",Yes,2016-01-25,20:00:55,2016-01-25,21:06:44,01:05:49,"Misc, Organization, Research",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-01-26,09:00:16,2016-01-26,09:40:18,00:40:02,"Individual Mentor Meeting, Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor meeting prep,Yes,2016-01-26,09:45:08,2016-01-26,10:00:09,00:15:01,Meeting Prep,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor meeting prep,Yes,2016-01-26,10:00:11,2016-01-26,10:12:07,00:11:56,Meeting Prep,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-01-26,10:00:46,2016-01-26,10:34:47,00:34:01,"Individual Mentor Meeting, Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Meeting manager matrix setup,Yes,2016-01-26,10:40:44,2016-01-26,11:30:42,00:49:58,Meeting Manager,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Mentor Meeting Prep,Yes,2016-01-26,11:30:00,2016-01-26,13:03:17,01:33:17,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-26,11:30:47,2016-01-26,12:15:06,00:44:19,"Meeting, Team Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting - 01/26,Yes,2016-01-26,11:32:30,2016-01-26,12:14:23,00:41:53,"Meeting, Team Meeting",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-26,11:37:25,2016-01-26,13:00:34,01:23:09,"Meeting, Team Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-26,12:13:34,2016-01-26,13:00:55,00:47:21,"Meeting, Mentor Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-26,12:13:56,2016-01-26,12:59:54,00:45:57,Mentor Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-26,12:15:36,2016-01-26,13:00:37,00:45:01,Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 1/26/2016,Yes,2016-01-26,13:23:42,2016-01-26,14:55:48,01:32:06,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-26,13:25:24,2016-01-26,15:04:18,01:38:54,"Bootcamp, Class",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,boot camp ,Yes,2016-01-26,13:30:00,2016-01-26,14:51:19,01:21:19,"Bootcamp, mobile",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-26,13:30:00,2016-01-26,14:50:00,01:20:00,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp 01/26,Yes,2016-01-26,13:30:29,2016-01-26,14:50:31,01:20:02,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Meeting with Laila about their releflections,Yes,2016-01-26,16:44:12,2016-01-26,17:25:47,00:41:35,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Meeting with Laila,Yes,2016-01-26,16:45:09,2016-01-26,17:25:09,00:40:00,"Meeting, Team Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Meeting Laila,Yes,2016-01-26,16:45:57,2016-01-26,17:27:20,00:41:23,Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Meeting - Laila,Yes,2016-01-26,16:47:15,2016-01-26,17:24:32,00:37:17,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Learning Plan,Yes,2016-01-26,18:48:32,2016-01-26,19:48:54,01:00:22,"Documentation, Research",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Learning Plan,Yes,2016-01-26,20:00:55,2016-01-26,22:59:49,02:58:54,"Documentation, Research",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Studio Document,Yes,2016-01-27,10:00:38,2016-01-27,12:00:40,02:00:02,Individual,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Whiteboarding session,Yes,2016-01-27,14:30:08,2016-01-27,17:07:42,02:37:34,Customer Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting - 01/27,Yes,2016-01-27,15:00:10,2016-01-27,17:07:13,02:07:03,"Client Meeting, Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Client Meeting ,Yes,2016-01-27,15:00:32,2016-01-27,17:06:47,02:06:15,Client Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-01-27,15:01:17,2016-01-27,17:05:22,02:04:05,Client Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-01-27,15:03:33,2016-01-27,17:19:41,02:16:08,"Customer Meeting, Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,"Organization Meetings directory, Creating instructions for meetings",Yes,2016-01-27,18:15:16,2016-01-27,20:05:49,01:50:33,Document,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Learning Plan Documentation and Glossary,Yes,2016-01-27,18:33:54,2016-01-27,20:04:13,01:30:19,"Documentation, Research",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,"Organization Meetings directory, Creating instructions for meetings",Yes,2016-01-27,20:25:59,2016-01-27,21:00:29,00:34:30,Document,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Follow-up Lesson 01 From Andrew Feedback,Yes,2016-01-28,09:25:53,2016-01-28,10:30:55,01:05:02,"Documentation, Research",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-28,13:23:37,2016-01-28,14:52:39,01:29:02,"Bootcamp, Class",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 1/28/2016,Yes,2016-01-28,13:29:59,2016-01-28,14:40:44,01:10:45,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-01-28,13:30:00,2016-01-28,14:50:00,01:20:00,Bootcamp,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,boot camp ,Yes,2016-01-28,13:30:15,2016-01-28,14:35:17,01:05:02,"Bootcamp, mobile",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp 01/28,Yes,2016-01-28,13:30:29,2016-01-28,14:30:29,01:00:00,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Trying to contact Andrew after email bounce,Yes,2016-01-28,14:40:03,2016-01-28,15:41:05,01:01:02,Organization,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-28,14:40:40,2016-01-28,15:03:42,00:23:02,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Plan,Yes,2016-01-28,23:07:36,2016-01-28,23:50:24,00:42:48,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting - Prep +  Brainstorming,Yes,2016-01-29,13:15:13,2016-01-29,15:05:05,01:49:52,Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Brainstorming - Drivers,Yes,2016-01-29,13:30:18,2016-01-29,15:15:19,01:45:01,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Group working session,Yes,2016-01-29,13:39:22,2016-01-29,15:13:51,01:34:29,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-01-29,13:39:24,2016-01-29,15:16:16,01:36:52,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-01-29,15:22:33,2016-01-29,15:29:52,00:07:19,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Research on ACDM for Team Process Meeting,Yes,2016-01-30,09:07:16,2016-01-30,12:24:03,03:16:47,"Documentation, Individual Work",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Process Research,Yes,2016-01-30,09:30:00,2016-01-30,10:10:00,00:40:00,Domain Research,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Process Study - OpenUP,Yes,2016-01-30,11:43:35,2016-01-30,12:28:17,00:44:42,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Process Research,Yes,2016-01-30,13:28:47,2016-01-30,14:03:53,00:35:06,Domain Research,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-30,13:52:28,2016-01-30,15:53:14,02:00:46,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting For Process Selection,Yes,2016-01-30,14:00:03,2016-01-30,16:37:26,02:37:23,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting - deciding the process,Yes,2016-01-30,14:00:13,2016-01-30,16:33:45,02:33:33,Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Process Selection Meeting,Yes,2016-01-30,14:00:19,2016-01-30,16:42:17,02:41:58,"Research, Team Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-30,14:04:01,2016-01-30,16:05:24,02:01:23,"Meeting, Team Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Template and formalization,Yes,2016-01-31,11:35:29,2016-01-31,12:23:44,00:48:15,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Integration of ACDM,Yes,2016-02-01,09:00:43,2016-02-01,09:30:43,00:30:00,Research,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual mentor meeting,Yes,2016-02-01,09:30:54,2016-02-01,10:03:18,00:32:24,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-01,10:00:43,2016-02-01,10:30:47,00:30:04,"Individual Mentor Meeting, Meeting, Mentor Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-02,01:30:00,2016-02-02,02:50:00,01:20:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-02,09:00:07,2016-02-02,09:30:09,00:30:02,Individual Mentor Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Milestone Planning,Yes,2016-02-02,10:14:40,2016-02-02,10:47:00,00:32:20,"Individual Work, Planning",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Misc meeting prep and fixing toggl tags,Yes,2016-02-02,10:24:04,2016-02-02,10:53:18,00:29:14,"Individual Work, Organization",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp presentation Prep,Yes,2016-02-02,10:30:31,2016-02-02,11:20:34,00:50:03,"Bootcamp, Presentation",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Reviewing bootcamp presentation,Yes,2016-02-02,10:55:07,2016-02-02,11:05:40,00:10:33,Presentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team planning meeting for the week,Yes,2016-02-02,11:30:09,2016-02-02,12:15:18,00:45:09,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-02,11:30:38,2016-02-02,12:15:50,00:45:12,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting 02/02,Yes,2016-02-02,11:30:51,2016-02-02,12:15:34,00:44:43,"Meeting, Team Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-02,11:30:52,2016-02-02,12:15:53,00:45:01,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-02,11:38:34,2016-02-02,12:15:36,00:37:02,Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-02-02,12:15:01,2016-02-02,13:00:05,00:45:04,"Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-02-02,12:15:14,2016-02-02,13:10:36,00:55:22,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-02-02,12:15:16,2016-02-02,12:55:17,00:40:01,Mentor Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting 02/02,Yes,2016-02-02,12:15:28,2016-02-02,13:00:19,00:44:51,"Meeting, Mentor Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-02-02,12:15:58,2016-02-02,13:03:14,00:47:16,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-02,12:55:00,2016-02-02,13:15:00,00:20:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-02,13:03:16,2016-02-02,13:11:35,00:08:19,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 2/02/2016,Yes,2016-02-02,13:25:00,2016-02-02,15:04:00,01:39:00,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp - 02/02,Yes,2016-02-02,13:30:17,2016-02-02,14:50:19,01:20:02,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-02,13:30:24,2016-02-02,14:50:27,01:20:03,"Bootcamp, Class",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-02,13:30:27,2016-02-02,14:50:29,01:20:02,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-02,17:45:06,2016-02-02,19:32:07,01:47:01,Research,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Goal and requirement analysis pt. 2,Yes,2016-02-03,14:55:02,2016-02-03,16:50:16,01:55:14,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-03,15:00:15,2016-02-03,16:45:10,01:44:55,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Discussion on Requirements,Yes,2016-02-03,15:00:57,2016-02-03,16:45:00,01:44:03,"brainstorming, Team Meeting",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-03,15:04:15,2016-02-03,16:30:18,01:26:03,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-03,15:11:41,2016-02-03,16:55:59,01:44:18,Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-04,08:30:43,2016-02-04,09:00:43,00:30:00,Individual Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 2/4/2016,Yes,2016-02-04,13:30:00,2016-02-04,15:00:18,01:30:18,Bootcamp,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-04,13:30:00,2016-02-04,14:50:00,01:20:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-04,13:30:09,2016-02-04,14:55:11,01:25:02,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp - 02/04,Yes,2016-02-04,13:30:34,2016-02-04,14:50:35,01:20:01,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-04,13:30:41,2016-02-04,14:50:44,01:20:03,"Bootcamp, Class",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Preparing for customer meeting,Yes,2016-02-04,17:36:00,2016-02-04,18:28:05,00:52:05,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Preparing for customer meeting,Yes,2016-02-04,19:50:21,2016-02-04,23:07:28,03:17:07,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-05,13:27:47,2016-02-05,16:32:16,03:04:29,Customer Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Client Meeting ,Yes,2016-02-05,13:29:21,2016-02-05,16:30:14,03:00:53,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-02-05,13:30:11,2016-02-05,15:33:12,02:03:01,Client Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting - 02/05,Yes,2016-02-05,13:30:14,2016-02-05,16:31:51,03:01:37,Client Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-02-05,13:30:31,2016-02-05,16:30:34,03:00:03,"Customer Meeting, Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-02-05,15:33:33,2016-02-05,16:16:52,00:43:19,Client Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-02-05,16:17:00,2016-02-05,16:18:43,00:01:43,Client Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Client Meeting ,Yes,2016-02-06,12:00:18,2016-02-06,13:38:19,01:38:01,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-02-06,12:00:32,2016-02-06,14:00:34,02:00:02,"Customer Meeting, Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-06,12:00:32,2016-02-06,14:08:20,02:07:48,Customer Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Kiran - Meeting,Yes,2016-02-06,12:00:37,2016-02-06,13:48:17,01:47:41,Client Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting - 02/06,Yes,2016-02-06,12:00:40,2016-02-06,13:41:42,01:41:02,Client Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,OpenUP and ACDM integration and bootstrap,Yes,2016-02-07,12:18:51,2016-02-07,14:22:21,02:03:30,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,OpenUP and ACDM integration and bootstrap,Yes,2016-02-07,15:10:24,2016-02-07,17:36:34,02:26:10,Individual Work,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-08,10:00:53,2016-02-08,10:30:55,00:30:02,"Individual Mentor Meeting, Meeting, Mentor Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Plan for Sprint 1,Yes,2016-02-08,16:57:26,2016-02-08,17:33:40,00:36:14,"Planning, Research",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Plan for Sprint 1,Yes,2016-02-08,17:45:50,2016-02-08,18:11:51,00:26:01,"Planning, Research",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Continue bootstrap of OpenUP,Yes,2016-02-08,18:05:08,2016-02-08,18:38:09,00:33:01,Individual Work,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-09,09:00:00,2016-02-09,09:30:00,00:30:00,Individual Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Weekly team and mentor status meeting,Yes,2016-02-09,11:15:13,2016-02-09,13:15:15,02:00:02,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-09,11:27:14,2016-02-09,12:15:17,00:48:03,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting 02/09,Yes,2016-02-09,11:30:37,2016-02-09,12:15:26,00:44:49,"Meeting, Team Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-09,11:35:09,2016-02-09,12:15:12,00:40:03,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-09,11:35:24,2016-02-09,12:15:55,00:40:31,Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Weekly Status Updates,Yes,2016-02-09,12:15:14,2016-02-09,13:05:13,00:49:59,Mentor Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting 02/09,Yes,2016-02-09,12:15:23,2016-02-09,13:00:24,00:45:01,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-02-09,12:15:43,2016-02-09,13:00:44,00:45:01,"Meeting, Mentor Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-02-09,12:16:00,2016-02-09,13:08:41,00:52:41,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-09,13:25:52,2016-02-09,14:50:55,01:25:03,"Bootcamp, Class",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp - 02/09,Yes,2016-02-09,13:30:06,2016-02-09,14:50:07,01:20:01,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 2/9/2016,Yes,2016-02-09,13:30:26,2016-02-09,14:51:57,01:21:31,Bootcamp,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,boot camp ,Yes,2016-02-09,13:30:51,2016-02-09,14:51:54,01:21:03,"Bootcamp, mobile",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-09,13:30:53,2016-02-09,14:52:09,01:21:16,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Create and Planning OpenUP workflow for elaboration phase,Yes,2016-02-09,18:07:32,2016-02-09,19:03:08,00:55:36,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-09,20:29:03,2016-02-10,00:03:28,03:34:25,Individual Work,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual mentor meeting,Yes,2016-02-09,21:30:00,2016-02-09,22:00:00,00:30:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Weekly team group work time,Yes,2016-02-10,14:55:00,2016-02-10,17:53:00,02:58:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-10,15:00:00,2016-02-10,17:30:00,02:30:00,"brainstorming, Team Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting 02/11 - Risk Management Presentation,Yes,2016-02-10,15:00:26,2016-02-10,17:42:27,02:42:01,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-10,15:00:31,2016-02-10,17:59:33,02:59:02,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-11,08:30:00,2016-02-11,09:00:00,00:30:00,Individual Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-11,09:05:00,2016-02-11,09:40:00,00:35:00,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Prep Work for OpenUP/ACDM Bootstrap,Yes,2016-02-11,13:14:20,2016-02-11,13:30:48,00:16:28,Documentation,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp - 02/11,Yes,2016-02-11,13:30:07,2016-02-11,14:50:07,01:20:00,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-11,13:30:23,2016-02-11,14:50:25,01:20:02,"Bootcamp, Class",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-11,13:30:33,2016-02-11,14:50:34,01:20:01,Bootcamp,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,boot camp ,Yes,2016-02-11,13:30:37,2016-02-11,14:45:39,01:15:02,"Bootcamp, mobile",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 2/11/2016,Yes,2016-02-11,13:30:49,2016-02-11,14:46:13,01:15:24,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Master Design Plan,Yes,2016-02-11,19:25:31,2016-02-11,22:57:37,03:32:06,Documentation,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Reading process & roles in ACDM and OpenUP,Yes,2016-02-12,01:30:19,2016-02-12,02:45:21,01:15:02,"Reading, Research",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Prep work for team meeting about OpenUP & ACDM,Yes,2016-02-12,10:50:09,2016-02-12,11:32:10,00:42:01,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team discussion about assigning roles for OpenUP & ACDM,Yes,2016-02-12,13:30:00,2016-02-12,15:50:00,02:20:00,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-12,13:30:26,2016-02-12,16:00:28,02:30:02,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-12,13:30:37,2016-02-12,15:39:08,02:08:31,Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-12,13:30:50,2016-02-12,15:30:32,01:59:42,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting 02/12 - Process and Roles,Yes,2016-02-12,13:32:33,2016-02-12,15:44:53,02:12:20,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual study,Yes,2016-02-13,10:15:32,2016-02-13,10:54:22,00:38:50,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-13,14:00:31,2016-02-13,17:08:59,03:08:28,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-13,14:00:53,2016-02-13,17:00:55,03:00:02,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-13,14:10:32,2016-02-13,17:16:03,03:05:31,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-13,14:14:35,2016-02-13,17:27:32,03:12:57,Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Scoping meeting and use case,Yes,2016-02-13,14:15:32,2016-02-13,17:10:10,02:54:38,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Specification Document,Yes,2016-02-14,10:29:50,2016-02-14,12:25:46,01:55:56,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Specification Document,Yes,2016-02-14,18:09:47,2016-02-14,19:27:17,01:17:30,Documentation,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-15,10:00:21,2016-02-15,10:30:23,00:30:02,"Individual Mentor Meeting, Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,MSD & ASD,Yes,2016-02-15,18:26:42,2016-02-15,22:38:13,04:11:31,Documentation,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Plan,Yes,2016-02-15,19:45:59,2016-02-15,21:05:35,01:19:36,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-16,09:00:00,2016-02-16,09:45:00,00:45:00,Individual Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Status Meeting Prep,Yes,2016-02-16,11:25:40,2016-02-16,12:30:24,01:04:44,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting & Mentor Meeting 02/16,Yes,2016-02-16,11:30:19,2016-02-16,13:09:21,01:39:02,"Mentor Meeting, Team Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-16,11:30:42,2016-02-16,12:15:59,00:45:17,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-16,11:30:55,2016-02-16,12:15:57,00:45:02,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team + Mentor meeting,Yes,2016-02-16,11:30:55,2016-02-16,13:01:55,01:31:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-02-16,12:15:14,2016-02-16,13:01:20,00:46:06,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-02-16,12:15:25,2016-02-16,13:10:28,00:55:03,"Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-16,12:30:42,2016-02-16,13:00:21,00:29:39,Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Iteration Plan,Yes,2016-02-16,13:00:59,2016-02-16,13:30:16,00:29:17,Individual Work,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-16,13:02:23,2016-02-16,13:25:31,00:23:08,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-16,13:30:00,2016-02-16,14:50:00,01:20:00,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-16,13:30:14,2016-02-16,14:50:16,01:20:02,"Bootcamp, Class",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,boot camp ,Yes,2016-02-16,13:30:30,2016-02-16,14:50:32,01:20:02,"Bootcamp, mobile",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp - 02/16,Yes,2016-02-16,13:30:31,2016-02-16,14:50:31,01:20:00,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 2/16/2016,Yes,2016-02-16,13:30:36,2016-02-16,15:07:37,01:37:01,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-16,18:20:01,2016-02-16,19:14:39,00:54:38,Project Management,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-16,20:15:30,2016-02-16,21:32:35,01:17:05,Project Management,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp Presentation,Yes,2016-02-17,09:30:52,2016-02-17,10:26:53,00:56:01,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp Presentation,Yes,2016-02-17,12:00:45,2016-02-17,12:19:08,00:18:23,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-17,15:00:07,2016-02-17,16:52:50,01:52:43,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting 02/17,Yes,2016-02-17,15:00:22,2016-02-17,17:40:24,02:40:02,"Meeting, Team Meeting",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-17,15:00:58,2016-02-17,17:10:00,02:09:02,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-17,15:03:50,2016-02-17,17:23:22,02:19:32,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-17,15:05:25,2016-02-17,17:29:50,02:24:25,Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-17,16:58:55,2016-02-17,17:22:43,00:23:48,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-17,21:32:38,2016-02-17,23:38:27,02:05:49,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp Presentation,Yes,2016-02-18,09:30:59,2016-02-18,10:27:00,00:56:01,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Front-end Framework Selection,Yes,2016-02-18,10:30:07,2016-02-18,12:30:09,02:00:02,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Planning and tracking presentation discussion,Yes,2016-02-18,12:12:26,2016-02-18,12:51:28,00:39:02,"discussion, Preparations",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Project management work,Yes,2016-02-18,12:14:11,2016-02-18,13:30:21,01:16:10,Project Management,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp Presentation,Yes,2016-02-18,13:15:09,2016-02-18,13:30:25,00:15:16,Presentation,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp - 02/18,Yes,2016-02-18,13:30:32,2016-02-18,14:40:32,01:10:00,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-18,13:30:33,2016-02-18,14:30:55,01:00:22,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp 2/18/2016,Yes,2016-02-18,13:30:49,2016-02-18,14:47:09,01:16:20,Bootcamp,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,boot camp ,Yes,2016-02-18,13:30:57,2016-02-18,14:35:58,01:05:01,"Bootcamp, mobile",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-18,13:30:58,2016-02-18,14:50:00,01:19:02,"Bootcamp, Class",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-18,20:13:25,2016-02-18,23:42:14,03:28:49,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-19,13:20:03,2016-02-19,16:22:47,03:02:44,"Client Meeting, Customer Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-02-19,13:30:32,2016-02-19,15:19:02,01:48:30,Client Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-02-19,13:30:33,2016-02-19,16:30:35,03:00:02,"Customer Meeting, Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Customer Meeting - 02/19,Yes,2016-02-19,13:30:33,2016-02-19,16:30:33,03:00:00,"Customer Meeting, Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Client Meeting ,Yes,2016-02-19,13:30:59,2016-02-19,16:22:01,02:51:02,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-02-19,15:19:51,2016-02-19,16:22:28,01:02:37,Client Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Doc,Yes,2016-02-19,23:15:48,2016-02-20,00:20:05,01:04:17,Documentation,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Quality Plan,Yes,2016-02-20,10:27:01,2016-02-20,12:53:29,02:26:28,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Doc,Yes,2016-02-20,10:30:43,2016-02-20,11:15:23,00:44:40,Documentation,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Use Case diagrams,Yes,2016-02-20,22:30:00,2016-02-21,01:12:00,02:42:00,Preparations,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Studio Document,Yes,2016-02-21,11:00:15,2016-02-21,13:00:17,02:00:02,Individual,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Doc,Yes,2016-02-21,11:45:29,2016-02-21,11:47:28,00:01:59,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Doc,Yes,2016-02-21,11:49:12,2016-02-21,11:53:09,00:03:57,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Doc,Yes,2016-02-21,12:04:05,2016-02-21,12:13:07,00:09:02,Documentation,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-21,14:00:07,2016-02-21,16:00:10,02:00:03,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting- Quality Plan,Yes,2016-02-21,14:00:37,2016-02-21,17:15:18,03:14:41,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan,Yes,2016-02-21,14:00:58,2016-02-21,17:00:00,02:59:02,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,QP1 Review/Discussion,Yes,2016-02-21,14:05:56,2016-02-21,16:56:37,02:50:41,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-21,14:09:35,2016-02-21,16:50:11,02:40:36,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Doc,Yes,2016-02-21,22:03:24,2016-02-21,22:11:04,00:07:40,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Doc,Yes,2016-02-21,22:28:13,2016-02-21,22:44:53,00:16:40,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,QP Presentation Prep,Yes,2016-02-21,23:07:22,2016-02-22,00:03:22,00:56:00,"Documentation, Presentation",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Qaulity Plan - Code quality,Yes,2016-02-22,00:30:21,2016-02-22,01:30:23,01:00:02,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,QP Presentation Prep,Yes,2016-02-22,09:00:48,2016-02-22,09:28:08,00:27:20,"Documentation, Presentation",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual mentor meeting,Yes,2016-02-22,09:30:28,2016-02-22,09:49:29,00:19:01,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Task for the week,Yes,2016-02-22,18:19:52,2016-02-22,19:10:54,00:51:02,Preparations,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Metric,Yes,2016-02-22,23:40:13,2016-02-23,00:17:02,00:36:49,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-23,01:30:00,2016-02-23,02:50:00,01:20:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-23,09:30:45,2016-02-23,10:00:04,00:29:19,Individual Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Pre mentor meeting,Yes,2016-02-23,11:28:58,2016-02-23,12:15:15,00:46:17,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-23,11:30:29,2016-02-23,12:13:06,00:42:37,Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team and Mentor Status Meeting,Yes,2016-02-23,11:30:30,2016-02-23,13:19:31,01:49:01,"Mentor Meeting, Team Meeting",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-23,11:30:33,2016-02-23,12:15:35,00:45:02,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-23,11:35:34,2016-02-23,12:15:35,00:40:01,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team + Mentor meeting,Yes,2016-02-23,12:13:10,2016-02-23,13:11:35,00:58:25,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-02-23,12:14:57,2016-02-23,13:14:55,00:59:58,Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Mentor Meeting,Yes,2016-02-23,12:15:49,2016-02-23,13:20:15,01:04:26,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-02-23,12:15:58,2016-02-23,13:00:00,00:44:02,"Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-23,13:25:48,2016-02-23,15:00:53,01:35:05,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-23,13:30:00,2016-02-23,14:50:00,01:20:00,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-23,13:30:07,2016-02-23,14:50:09,01:20:02,"Bootcamp, Class",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Meeting With tony,Yes,2016-02-23,15:00:01,2016-02-23,16:00:11,01:00:10,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,ACDM Discussion with Tony,Yes,2016-02-23,15:00:10,2016-02-23,16:00:12,01:00:02,Research,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Meeting with Tony for ACDM ,Yes,2016-02-23,15:00:30,2016-02-23,15:51:14,00:50:44,Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Tracking Document,Yes,2016-02-23,16:30:00,2016-02-23,17:30:03,01:00:03,Document,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Brainstorming for ACDM,Yes,2016-02-23,19:39:13,2016-02-23,20:57:17,01:18:04,Individual Work,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting - UI Risk Discussion,Yes,2016-02-24,15:00:04,2016-02-24,16:23:12,01:23:08,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team discussion about UI team,Yes,2016-02-24,15:00:11,2016-02-24,16:26:58,01:26:47,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-24,15:00:20,2016-02-24,16:30:40,01:30:20,Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-24,15:00:44,2016-02-24,17:00:46,02:00:02,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-24,15:03:18,2016-02-24,16:20:22,01:17:04,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-25,01:30:00,2016-02-25,02:50:00,01:20:00,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Document Review Time Tracking and Meeting management,Yes,2016-02-25,02:21:36,2016-02-25,02:56:36,00:35:00,"Document, Documentation",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-25,13:30:00,2016-02-25,14:50:00,01:20:00,Bootcamp,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp - 02/25,Yes,2016-02-25,13:30:13,2016-02-25,14:50:14,01:20:01,Bootcamp,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-25,13:30:22,2016-02-25,14:50:24,01:20:02,"Bootcamp, Class",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-02-25,13:30:45,2016-02-25,15:00:46,01:30:01,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-25,16:40:47,2016-02-25,19:31:52,02:51:05,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-25,20:51:20,2016-02-25,23:17:01,02:25:41,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Version Control Document,Yes,2016-02-25,23:00:23,2016-02-26,01:36:23,02:36:00,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Statement of Work,Yes,2016-02-26,09:00:46,2016-02-26,10:00:47,01:00:01,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Strategic Plan + Version control review,Yes,2016-02-26,13:01:44,2016-02-26,14:00:57,00:59:13,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Strategic Plan,Yes,2016-02-26,14:45:59,2016-02-26,15:18:41,00:32:42,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Drivers Specification,Yes,2016-02-26,19:18:48,2016-02-26,22:59:57,03:41:09,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Process Review and SDLC Creation,Yes,2016-02-26,23:00:29,2016-02-27,02:12:31,03:12:02,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Drivers Specification,Yes,2016-02-26,23:27:16,2016-02-27,00:15:10,00:47:54,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Drivers Specification,Yes,2016-02-27,09:47:12,2016-02-27,13:41:38,03:54:26,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Iteration Plans,Yes,2016-02-27,11:29:13,2016-02-27,12:27:20,00:58:07,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Statement of Work,Yes,2016-02-27,18:04:34,2016-02-27,19:17:49,01:13:15,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Presentation Work,Yes,2016-02-27,22:00:55,2016-02-27,23:00:55,01:00:00,Presentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Statement of Work,Yes,2016-02-27,22:09:01,2016-02-27,23:07:07,00:58:06,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Document,Yes,2016-02-28,09:07:33,2016-02-28,10:07:49,01:00:16,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Statement of Work,Yes,2016-02-28,10:35:18,2016-02-28,11:34:41,00:59:23,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Management (Update/Review Risk),Yes,2016-02-28,11:08:12,2016-02-28,12:03:48,00:55:36,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Iteration Plans,Yes,2016-02-28,13:15:00,2016-02-28,14:18:00,01:03:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-02-28,14:00:00,2016-02-28,17:30:02,03:30:02,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Document Quality review,Yes,2016-02-28,14:00:53,2016-02-28,17:00:54,03:00:01,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-02-28,14:01:24,2016-02-28,16:41:48,02:40:24,Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Review,Yes,2016-02-28,14:10:24,2016-02-28,16:41:50,02:31:26,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Document review meeting,Yes,2016-02-28,14:13:09,2016-02-28,16:46:36,02:33:27,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-02-28,19:22:28,2016-02-28,21:46:29,02:24:01,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Studio Document,Yes,2016-02-28,21:00:50,2016-02-29,00:00:53,03:00:03,Individual,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual mentor meeting,Yes,2016-02-29,09:30:44,2016-02-29,10:00:04,00:29:20,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-02-29,10:00:31,2016-02-29,10:30:34,00:30:03,"Individual Mentor Meeting, Meeting, Mentor Meeting",0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Presentation,Yes,2016-02-29,11:15:37,2016-02-29,12:00:37,00:45:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Dry Run,Yes,2016-02-29,15:30:51,2016-02-29,16:30:08,00:59:17,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Presentation,Yes,2016-02-29,22:01:09,2016-02-29,23:33:57,01:32:48,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-03-01,09:00:58,2016-03-01,09:40:08,00:39:10,Individual Mentor Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-01,11:30:00,2016-03-01,12:15:00,00:45:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-01,11:30:17,2016-03-01,12:15:19,00:45:02,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team + Mentor Meeting,Yes,2016-03-01,11:30:28,2016-03-01,12:13:42,00:43:14,Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting + Mentor Status,Yes,2016-03-01,11:33:30,2016-03-01,13:25:44,01:52:14,"Meeting, Mentor Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team + Mentor Meeting,Yes,2016-03-01,12:14:12,2016-03-01,13:23:08,01:08:56,Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Mentor Meeting,Yes,2016-03-01,12:15:00,2016-03-01,13:30:00,01:15:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-03-01,12:15:50,2016-03-01,13:15:52,01:00:02,"Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-03-01,13:30:00,2016-03-01,15:00:00,01:30:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-03-01,13:30:10,2016-03-01,14:55:18,01:25:08,Bootcamp,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,boot camp ,Yes,2016-03-01,13:30:11,2016-03-01,14:55:22,01:25:11,"Bootcamp, mobile",0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-03-01,13:30:25,2016-03-01,14:50:28,01:20:03,"Bootcamp, Class",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW and ADS,Yes,2016-03-02,18:21:46,2016-03-02,19:56:14,01:34:28,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW and ADS,Yes,2016-03-02,21:03:50,2016-03-02,22:16:53,01:13:03,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp Prep,Yes,2016-03-03,08:27:00,2016-03-03,10:28:00,02:01:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-03-03,13:30:00,2016-03-03,15:00:00,01:30:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Bootcamp,Yes,2016-03-03,13:30:27,2016-03-03,14:50:38,01:20:11,Bootcamp,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Bootcamp,Yes,2016-03-03,13:30:47,2016-03-03,15:00:49,01:30:02,Bootcamp,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW and ADS,Yes,2016-03-03,19:17:00,2016-03-03,21:57:00,02:40:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW and ADS,Yes,2016-03-04,08:01:00,2016-03-04,10:32:00,02:31:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-05,09:45:50,2016-03-05,10:24:52,00:39:02,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-07,08:04:00,2016-03-07,08:37:00,00:33:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-08,10:46:00,2016-03-08,11:34:00,00:48:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,ACDM Reading for Stage 3-6,Yes,2016-03-08,18:00:00,2016-03-08,20:15:00,02:15:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Process Definition,Yes,2016-03-10,12:14:58,2016-03-10,13:15:19,01:00:21,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,CMM Sub-Contractor Research,Yes,2016-03-11,09:50:00,2016-03-11,10:32:00,00:42:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,UI Team Meeting Prep,Yes,2016-03-11,12:00:00,2016-03-11,13:30:00,01:30:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,UI Team Meeting,Yes,2016-03-11,13:30:00,2016-03-11,15:00:00,01:30:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Meeting Daniel,Yes,2016-03-11,13:38:53,2016-03-11,15:03:24,01:24:31,Client Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer SoW and ADS Feedback Review,Yes,2016-03-13,12:37:00,2016-03-13,14:51:00,02:14:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Client Communication and Feedback,Yes,2016-03-14,08:43:00,2016-03-14,09:43:00,01:00:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Studio Document,Yes,2016-03-14,22:30:17,2016-03-15,00:00:20,01:30:03,Individual,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-03-15,09:14:55,2016-03-15,09:58:57,00:44:02,Individual Mentor Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Process Definition,Yes,2016-03-15,10:26:36,2016-03-15,11:38:05,01:11:29,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Status Meeting,Yes,2016-03-15,13:40:00,2016-03-15,15:00:00,01:20:00,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-15,15:58:51,2016-03-15,16:55:30,00:56:39,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-15,16:00:13,2016-03-15,17:20:15,01:20:02,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-15,16:00:55,2016-03-15,17:05:18,01:04:23,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-15,16:15:20,2016-03-15,17:10:22,00:55:02,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer SoW and ADS Feedback Review,Yes,2016-03-15,19:59:00,2016-03-15,21:59:01,02:00:01,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Studio Document,Yes,2016-03-15,20:00:35,2016-03-15,22:00:38,02:00:03,Individual,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Monitoring document,Yes,2016-03-16,08:10:36,2016-03-16,08:41:40,00:31:04,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Studio Document,Yes,2016-03-16,09:00:39,2016-03-16,11:00:46,02:00:07,Individual,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk templates,Yes,2016-03-16,11:00:14,2016-03-16,11:27:17,00:27:03,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-16,14:59:01,2016-03-16,17:03:56,02:04:55,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,"Team Meeting - Jira, Risk, SoW",Yes,2016-03-16,15:00:23,2016-03-16,17:37:30,02:37:07,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-16,15:00:38,2016-03-16,17:00:41,02:00:03,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-16,15:01:37,2016-03-16,17:04:58,02:03:21,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-16,15:03:52,2016-03-16,17:00:45,01:56:53,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-16,19:08:41,2016-03-16,19:29:24,00:20:43,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-03-17,08:30:00,2016-03-17,09:00:00,00:30:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Process Definition,Yes,2016-03-17,11:20:58,2016-03-17,12:05:56,00:44:58,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,QP2 Discussion,Yes,2016-03-17,14:00:00,2016-03-17,15:00:00,01:00:00,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Initial Discussion,Yes,2016-03-17,14:00:00,2016-03-17,16:00:00,02:00:00,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Analysis QP Group Meeting,Yes,2016-03-17,14:00:49,2016-03-17,16:30:51,02:30:02,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-17,14:08:16,2016-03-17,16:00:26,01:52:10,Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Meeting,Yes,2016-03-17,14:09:05,2016-03-17,16:05:13,01:56:08,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-17,20:30:00,2016-03-17,20:57:00,00:27:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Meeting Prep,Yes,2016-03-18,12:00:00,2016-03-18,13:15:00,01:15:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-03-18,13:15:54,2016-03-18,15:45:45,02:29:51,Client Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-03-18,13:30:00,2016-03-18,15:30:00,02:00:00,Customer Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-18,13:30:17,2016-03-18,16:00:32,02:30:15,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-03-18,13:30:28,2016-03-18,15:30:31,02:00:03,"Customer Meeting, Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-03-18,13:30:39,2016-03-18,15:37:39,02:07:00,Client Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback to Andrew,Yes,2016-03-19,10:45:53,2016-03-19,11:02:24,00:16:31,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Quality Plan,Yes,2016-03-19,14:20:59,2016-03-19,16:38:04,02:17:05,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW Review,Yes,2016-03-20,09:01:16,2016-03-20,09:39:18,00:38:02,mobile,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan 2,Yes,2016-03-20,14:00:00,2016-03-20,17:00:00,03:00:00,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Analysis QP Group Meeting,Yes,2016-03-20,14:00:54,2016-03-20,17:00:57,03:00:03,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,QP 2,Yes,2016-03-20,14:02:06,2016-03-20,17:15:08,03:13:02,Quality Plan,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Quality Plan,Yes,2016-03-20,14:17:09,2016-03-20,17:12:02,02:54:53,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,QP2 Discussion,Yes,2016-03-20,15:15:00,2016-03-20,17:32:29,02:17:29,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW and ADS,Yes,2016-03-20,17:32:31,2016-03-20,22:54:13,05:21:42,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Reviewing SoW,Yes,2016-03-20,23:00:00,2016-03-21,00:00:00,01:00:00,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback to Team and Mentors,Yes,2016-03-21,10:13:40,2016-03-21,10:25:10,00:11:30,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW Review,Yes,2016-03-21,18:33:32,2016-03-21,19:30:54,00:57:22,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Drivers Review,Yes,2016-03-21,19:30:56,2016-03-21,20:47:38,01:16:42,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Drivers Review,Yes,2016-03-21,20:57:50,2016-03-21,22:15:03,01:17:13,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,JIRA Setup,Yes,2016-03-21,22:35:12,2016-03-21,23:48:50,01:13:38,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-03-22,09:05:51,2016-03-22,09:49:00,00:43:09,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Weekly status meeting,Yes,2016-03-22,14:00:00,2016-03-22,15:30:00,01:30:00,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-22,14:00:04,2016-03-22,15:30:06,01:30:02,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-22,14:00:20,2016-03-22,15:34:40,01:34:20,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Meeting Matt for process clarification,Yes,2016-03-22,15:30:00,2016-03-22,16:15:00,00:45:00,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting (with Matt),Yes,2016-03-22,15:30:16,2016-03-22,16:30:19,01:00:03,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Statement of Work and Architecture Drivers Specification,Yes,2016-03-22,19:46:44,2016-03-22,21:50:03,02:03:19,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Planning For ACDM Stage 3+,Yes,2016-03-22,21:50:49,2016-03-22,22:08:36,00:17:47,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-03-23,09:30:00,2016-03-23,10:15:00,00:45:00,Mentor Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-03-23,09:30:05,2016-03-23,10:30:08,01:00:03,"Meeting, Mentor Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team + Mentor Meeting,Yes,2016-03-23,09:30:22,2016-03-23,10:15:35,00:45:13,Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Mentor Meeting,Yes,2016-03-23,09:30:33,2016-03-23,10:15:33,00:45:00,Mentor Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-03-23,09:35:55,2016-03-23,10:15:57,00:40:02,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,JIRA Tasking,Yes,2016-03-23,10:20:18,2016-03-23,10:55:47,00:35:29,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Quality Plan Meeting (Eduardo),Yes,2016-03-23,11:00:36,2016-03-23,11:50:23,00:49:47,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting (with Eduardo),Yes,2016-03-23,11:00:50,2016-03-23,12:00:52,01:00:02,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,JIRA Tasking,Yes,2016-03-23,12:02:09,2016-03-23,12:20:35,00:18:26,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting on risk and Architecture specs,Yes,2016-03-23,15:00:00,2016-03-23,17:00:00,02:00:00,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting (Risks),Yes,2016-03-23,15:00:18,2016-03-23,16:30:26,01:30:08,Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-23,15:00:22,2016-03-23,17:15:25,02:15:03,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Risk Meeting - Team,Yes,2016-03-23,15:00:34,2016-03-23,16:30:48,01:30:14,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-23,16:54:22,2016-03-23,18:14:58,01:20:36,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Use Cases,Yes,2016-03-23,19:30:00,2016-03-23,21:30:00,02:00:00,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Use Case Diagrams,Yes,2016-03-23,19:30:34,2016-03-23,20:26:38,00:56:04,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architecture Drivers Specification Entities,Yes,2016-03-23,19:54:19,2016-03-23,23:40:22,03:46:03,mobile,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-03-24,09:00:00,2016-03-24,09:50:00,00:50:00,Individual Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Quality Plan,Yes,2016-03-24,14:53:11,2016-03-24,16:45:46,01:52:35,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-03-24,20:21:28,2016-03-24,23:27:38,03:06:10,mobile,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Quality Plan,Yes,2016-03-25,09:23:07,2016-03-25,10:00:31,00:37:24,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-25,10:12:00,2016-03-25,10:33:27,00:21:28,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,QP 2,Yes,2016-03-25,10:25:01,2016-03-25,11:27:11,01:02:10,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Use Cases,Yes,2016-03-25,10:45:00,2016-03-25,12:00:00,01:15:00,Documentation,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Quality Plan,Yes,2016-03-25,10:52:25,2016-03-25,11:17:59,00:25:34,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Use Cases,Yes,2016-03-25,13:00:00,2016-03-25,13:45:00,00:45:00,Documentation,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting on Architecture Driver Specs,Yes,2016-03-25,14:00:00,2016-03-25,15:00:00,01:00:00,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-25,14:00:29,2016-03-25,15:24:54,01:24:25,Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-25,14:00:42,2016-03-25,15:00:45,01:00:03,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-25,14:00:47,2016-03-25,15:22:40,01:21:54,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-25,14:05:32,2016-03-25,15:13:42,01:08:10,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,SoW and ADS Review,Yes,2016-03-25,19:16:44,2016-03-25,22:07:28,02:50:44,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architectural Drivers Specification,Yes,2016-03-26,12:55:39,2016-03-26,14:18:26,01:22:47,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architectural Drivers Specification,Yes,2016-03-26,14:22:40,2016-03-26,15:47:33,01:24:53,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,QP2,No,2016-03-26,19:00:16,2016-03-26,23:59:10,04:58:54,mobile,
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-03-27,09:18:40,2016-03-27,11:04:26,01:45:46,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Respond,Yes,2016-03-27,10:45:43,2016-03-27,11:04:58,00:19:15,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Respond,Yes,2016-03-27,11:09:05,2016-03-27,11:09:28,00:00:23,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Respond,Yes,2016-03-27,11:10:07,2016-03-27,11:17:48,00:07:41,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Respond,Yes,2016-03-27,11:54:12,2016-03-27,12:35:50,00:41:38,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,QP 2,Yes,2016-03-27,14:15:33,2016-03-27,15:52:35,01:37:02,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Quality Plan,Yes,2016-03-27,14:20:50,2016-03-27,15:59:10,01:38:20,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-03-27,20:00:48,2016-03-27,21:07:14,01:06:26,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-03-28,10:00:00,2016-03-28,10:30:00,00:30:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Review Andrew ADS Feedback,Yes,2016-03-28,19:15:00,2016-03-28,20:00:00,00:45:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-03-28,20:00:00,2016-03-28,21:55:00,01:55:00,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Client Meeting ,Yes,2016-03-28,20:00:43,2016-03-28,21:51:06,01:50:23,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-03-28,20:00:52,2016-03-28,22:00:54,02:00:02,"Customer Meeting, Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Client Meeting,Yes,2016-03-28,20:03:50,2016-03-28,21:50:51,01:47:01,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-03-28,21:00:00,2016-03-28,22:45:00,01:45:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-29,14:00:00,2016-03-29,14:59:23,00:59:23,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-29,14:00:02,2016-03-29,15:00:05,01:00:03,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-29,14:01:38,2016-03-29,15:05:14,01:03:36,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-29,14:05:33,2016-03-29,15:04:31,00:58:58,Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Status meeting,Yes,2016-03-29,15:00:00,2016-03-29,16:00:00,01:00:00,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Status Meeting,Yes,2016-03-29,15:00:00,2016-03-29,16:00:00,01:00:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,ACDM Stage 2 Individual Review,Yes,2016-03-29,20:07:00,2016-03-29,21:29:00,01:22:00,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Creating Survey for the week,Yes,2016-03-30,00:00:00,2016-03-30,00:45:00,00:45:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Mentor Meeting,Yes,2016-03-30,09:25:08,2016-03-30,10:15:09,00:50:01,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-03-30,09:30:16,2016-03-30,10:15:19,00:45:03,"Meeting, Mentor Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-03-30,09:32:52,2016-03-30,10:15:04,00:42:12,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual mentor meeting,Yes,2016-03-30,10:30:00,2016-03-30,11:00:00,00:30:00,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-03-30,10:30:00,2016-03-30,11:15:00,00:45:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-03-30,10:45:50,2016-03-30,11:15:53,00:30:03,"Individual Mentor Meeting, Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-30,15:01:07,2016-03-30,17:05:26,02:04:19,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-03-30,15:04:51,2016-03-30,17:04:54,02:00:03,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-03-30,15:10:00,2016-03-30,17:09:56,01:59:56,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Discussion on Risk ,Yes,2016-03-30,16:00:00,2016-03-30,18:00:00,02:00:00,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Discussion,Yes,2016-03-30,16:00:00,2016-03-30,18:00:00,02:00:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,JIRA Tasking,Yes,2016-03-30,18:49:05,2016-03-30,19:37:15,00:48:10,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-03-30,21:51:52,2016-03-30,23:23:16,01:31:24,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-03-31,08:30:40,2016-03-31,09:00:41,00:30:01,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-03-31,18:11:00,2016-03-31,20:45:00,02:34:00,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Metor Meeting,Yes,2016-03-31,22:00:00,2016-03-31,22:40:00,00:40:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-04-01,13:30:35,2016-04-01,14:00:35,00:30:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-04-01,13:30:37,2016-04-01,15:30:40,02:00:03,"Customer Meeting, Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-04-01,14:01:32,2016-04-01,15:30:23,01:28:51,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-04-01,14:03:05,2016-04-01,15:27:41,01:24:36,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Discussion,Yes,2016-04-01,15:00:00,2016-04-01,16:00:00,01:00:00,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Discussion,Yes,2016-04-01,15:00:00,2016-04-01,16:00:00,01:00:00,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,LinkedIn API Research,Yes,2016-04-02,20:40:03,2016-04-02,22:40:05,02:00:02,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Customer Communication,Yes,2016-04-03,10:13:00,2016-04-03,10:44:00,00:31:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-03,15:18:14,2016-04-03,20:05:22,04:47:08,mobile,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,LinkedIn API Research,Yes,2016-04-03,19:41:17,2016-04-03,21:41:19,02:00:02,Individual Work,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Cu,Yes,2016-04-03,21:06:11,2016-04-03,22:23:18,01:17:08,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Collate Feedback,Yes,2016-04-04,10:00:27,2016-04-04,11:04:33,01:04:06,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Relationship Diagrams,Yes,2016-04-04,17:30:09,2016-04-04,18:58:36,01:28:27,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,User Stories,Yes,2016-04-04,18:00:00,2016-04-04,20:00:00,02:00:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-04,20:56:00,2016-04-04,22:00:00,01:04:00,mobile,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,ACDM 3-6 Review,Yes,2016-04-04,22:19:09,2016-04-04,22:28:28,00:09:20,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-04,22:28:29,2016-04-04,23:03:44,00:35:15,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,OpenUp + ACDM Updates,Yes,2016-04-04,22:45:31,2016-04-04,23:40:32,00:55:01,Documentation,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Relationship Diagram,Yes,2016-04-04,23:45:00,2016-04-05,00:45:00,01:00:00,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-04-05,09:02:12,2016-04-05,09:45:13,00:43:01,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-04-05,14:00:11,2016-04-05,14:57:04,00:56:53,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Status Meeting,Yes,2016-04-05,14:00:32,2016-04-05,15:00:32,01:00:00,Team Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-04-05,14:00:37,2016-04-05,15:00:40,01:00:03,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-04-05,14:00:38,2016-04-05,14:54:48,00:54:10,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-04-05,14:00:40,2016-04-05,14:54:45,00:54:05,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Meeting - Drive Reconfiguration ,Yes,2016-04-05,18:58:20,2016-04-05,19:32:25,00:34:05,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Drive Reorganizaiton Discussion,Yes,2016-04-05,19:00:04,2016-04-05,19:40:06,00:40:02,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,User Stories,Yes,2016-04-05,19:30:34,2016-04-05,21:30:34,02:00:00,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,User Stories,Yes,2016-04-05,21:35:41,2016-04-05,21:45:30,00:09:49,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk and Meeting Prep,Yes,2016-04-05,23:40:50,2016-04-05,23:59:54,00:19:04,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk and Meeting Prep,Yes,2016-04-06,00:00:49,2016-04-06,02:03:58,02:03:09,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-04-06,09:30:34,2016-04-06,10:30:34,01:00:00,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team + Mentor meeting,Yes,2016-04-06,09:30:48,2016-04-06,10:16:52,00:46:04,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-04-06,09:30:51,2016-04-06,10:26:53,00:56:02,"Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Mentor Meeting,Yes,2016-04-06,09:31:00,2016-04-06,10:40:00,01:09:00,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual mentor meeting,Yes,2016-04-06,10:32:16,2016-04-06,11:03:18,00:31:02,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-04-06,11:00:25,2016-04-06,11:27:27,00:27:02,"Individual Mentor Meeting, Meeting, Mentor Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Weekly Survey,Yes,2016-04-06,13:32:00,2016-04-06,13:48:33,00:16:33,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-04-06,15:00:00,2016-04-06,17:05:00,02:05:00,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting (Risks),Yes,2016-04-06,15:00:13,2016-04-06,17:05:06,02:04:53,Meeting,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-04-06,15:00:20,2016-04-06,17:00:22,02:00:02,Team Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,"Team Meeting - Risk, Plan",Yes,2016-04-06,15:00:34,2016-04-06,17:00:27,01:59:53,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Quality Attribute Prioritization,Yes,2016-04-06,18:30:00,2016-04-06,19:30:00,01:00:00,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-04-07,08:30:00,2016-04-07,09:05:00,00:35:00,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting Individual,No,2016-04-07,09:00:38,2016-04-07,09:45:38,00:45:00,Individual Mentor Meeting,
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,JIRA Tasking,Yes,2016-04-07,15:00:13,2016-04-07,15:44:50,00:44:37,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Quality Attribute Prioritization,Yes,2016-04-07,20:30:57,2016-04-07,22:33:04,02:02:07,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,ACDM Reading ,Yes,2016-04-07,22:26:14,2016-04-07,23:43:21,01:17:07,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Architectural Drivers Specification,Yes,2016-04-08,10:01:00,2016-04-08,11:24:10,01:23:10,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Architecture,Yes,2016-04-08,11:00:39,2016-04-08,12:30:39,01:30:00,Documentation,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-08,12:38:00,2016-04-08,14:54:57,02:16:57,,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Customer Meeting,Yes,2016-04-08,14:00:40,2016-04-08,15:00:40,01:00:00,Customer Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Role activities,Yes,2016-04-08,16:10:26,2016-04-08,17:32:29,01:22:03,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Notional Architecture - prep,Yes,2016-04-09,10:10:27,2016-04-09,10:40:28,00:30:01,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Discussion with Daniel,Yes,2016-04-09,10:32:25,2016-04-09,13:16:37,02:44:12,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,ACDM Stage 3 Reading,Yes,2016-04-09,10:52:31,2016-04-09,11:40:05,00:47:34,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-09,14:46:40,2016-04-09,17:42:09,02:55:29,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Read ACDM Stage 3,Yes,2016-04-09,18:33:48,2016-04-09,20:30:51,01:57:03,Individual Work,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,ACDM Stage 3& 4,Yes,2016-04-09,20:00:40,2016-04-09,22:00:21,01:59:41,Reading,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-09,20:18:19,2016-04-09,21:49:53,01:31:34,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Notional Architecture,Yes,2016-04-10,10:00:53,2016-04-10,11:58:57,01:58:04,Individual Work,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Notional Architecture,Yes,2016-04-10,14:00:31,2016-04-10,16:52:34,02:52:03,Individual Work,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Notional Architecture,Yes,2016-04-10,14:14:06,2016-04-10,15:55:17,01:41:11,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Meeting - Drive Reconfiguration ,Yes,2016-04-10,16:04:34,2016-04-10,16:46:38,00:42:04,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,EOSP Prep,Yes,2016-04-10,16:05:34,2016-04-10,23:04:20,06:58:47,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Server Spec,Yes,2016-04-10,18:00:40,2016-04-10,18:41:43,00:41:03,Individual Work,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Architecture,Yes,2016-04-10,19:00:21,2016-04-10,22:00:22,03:00:01,Documentation,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,ACDM Stage 3 Reading,Yes,2016-04-10,21:56:30,2016-04-10,22:22:52,00:26:22,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,ACDM Stage 3 Reading,Yes,2016-04-10,22:22:54,2016-04-10,23:04:06,00:41:12,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,360 Feedback Collate and Send,Yes,2016-04-11,10:01:09,2016-04-11,10:28:20,00:27:11,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-04-11,17:00:56,2016-04-11,18:30:59,01:30:03,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-11,18:00:45,2016-04-11,19:12:56,01:12:11,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,QP3,Yes,2016-04-11,18:00:55,2016-04-11,19:10:41,01:09:46,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,List of Documents,Yes,2016-04-11,20:09:01,2016-04-11,20:44:03,00:35:02,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Requirements Traceability,Yes,2016-04-11,20:49:51,2016-04-11,23:08:04,02:18:13,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,ACDM Stage 3 Reading,Yes,2016-04-12,00:18:26,2016-04-12,01:19:42,01:01:16,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-04-12,14:00:00,2016-04-12,15:08:02,01:08:02,Team Meeting,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-04-12,14:00:37,2016-04-12,15:09:51,01:09:14,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-04-12,14:00:37,2016-04-12,15:19:58,01:19:21,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,JIRA Tasking,Yes,2016-04-12,15:54:17,2016-04-12,17:19:35,01:25:18,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Survey Form,Yes,2016-04-12,17:23:54,2016-04-12,17:28:16,00:04:22,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor meeting prep,Yes,2016-04-12,18:58:45,2016-04-12,19:35:24,00:36:39,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Management - Role tasks,Yes,2016-04-12,20:44:13,2016-04-12,20:56:17,00:12:04,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Risk Management - Role tasks,Yes,2016-04-12,21:05:11,2016-04-12,21:48:05,00:42:54,,0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"",Yes,2016-04-13,09:30:04,2016-04-13,10:12:00,00:41:56,,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team + Mentor meeting,Yes,2016-04-13,09:30:37,2016-04-13,10:14:39,00:44:02,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-04-13,09:30:43,2016-04-13,10:15:45,00:45:02,"Meeting, Mentor Meeting",0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Individual mentor meeting,Yes,2016-04-13,10:30:25,2016-04-13,11:00:29,00:30:04,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Individual Mentor Meeting,Yes,2016-04-13,10:47:16,2016-04-13,11:20:19,00:33:03,"Individual Mentor Meeting, Meeting, Mentor Meeting",0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Project Planning Documentation,Yes,2016-04-13,11:30:44,2016-04-13,12:01:57,00:31:13,,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-04-13,15:00:32,2016-04-13,16:42:35,01:42:03,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-04-13,15:00:35,2016-04-13,17:00:26,01:59:51,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Notional Architecture Review,Yes,2016-04-13,15:00:45,2016-04-13,16:42:16,01:41:31,,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Project Tracking Process,Yes,2016-04-13,20:32:25,2016-04-13,20:53:02,00:20:37,,0.00
