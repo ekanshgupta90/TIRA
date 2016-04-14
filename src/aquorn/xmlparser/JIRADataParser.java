@@ -113,7 +113,7 @@ public class JIRADataParser {
     //TODO Remove the main from this file.
     public static void main(String args[]) {
         JIRADataParser dataParser = new JIRADataParser();
-        Map<String, JIRADto> map = dataParser.extractDataFromXML("entities.xml");
+        Map<String, JIRADto> map = dataParser.extractDataFromXML("data/entities.xml");
         map.values().stream().forEach((value) -> {
             System.out.println(value.toString());
         });

@@ -78,7 +78,7 @@ public class TogglDataParser {
     //TODO remove the main method after testing.
     public static void main (String[] args) {
         TogglDataParser parser = new TogglDataParser();
-        Map<String,TogglDto> output = parser.extractDataFromCSV("toggl.csv"); 
+        Map<String,TogglDto> output = parser.extractDataFromCSV("data/toggl.csv"); 
         for (TogglDto out : output.values()) {
             System.out.println(out.toString());
         }
