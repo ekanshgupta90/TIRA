@@ -87,4 +87,8 @@ public class BaseConstants {
     /***************************************************************************
      * Toggl Constants - END
      **************************************************************************/
+    /**
+     * The file name used for exporting.
+     */
+    public static String OUTPUT_FILE_NAME = "Toggl_JIRA_Combine_";
 }

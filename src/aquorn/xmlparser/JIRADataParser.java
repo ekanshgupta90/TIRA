@@ -36,7 +36,7 @@ public class JIRADataParser {
      * @param fileName filename with path for the file to be read.
      * @return Document object for the xml.
      */
-    private Document readFileData(String fileName) {
+    private static Document readFileData(String fileName) {
         try {
             File xmlFile = new File(fileName);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -52,7 +52,7 @@ public class JIRADataParser {
      * @param element xml element to extract information from.
      * @return JIRADto object to be put in the Map.
      */
-    private JIRADto getDataFromElement(Element element) {
+    private static JIRADto getDataFromElement(Element element) {
         JIRADto jiraDto = new JIRADto();
         if (element.hasAttribute(BaseConstants.JIRA_KEY)) {
             jiraDto.setKey(element.getAttribute(BaseConstants.JIRA_KEY));
@@ -87,7 +87,7 @@ public class JIRADataParser {
      * @param fileName filename with path for the file to be read.
      * @return Map for issueId and JIRADto.
      */
-    public Map<String, JIRADto> extractDataFromXML(String fileName) {
+    public static Map<String, JIRADto> extractDataFromXML(String fileName) {
         Map<String, JIRADto> xmlOutput = new HashMap<>(101);
         try {
             Document document = readFileData(fileName);
@@ -112,14 +112,5 @@ public class JIRADataParser {
             throw new RuntimeException(e.getMessage());
         }
         return xmlOutput;
-    }
-    
-    //TODO Remove the main from this file.
-    public static void main(String args[]) {
-        JIRADataParser dataParser = new JIRADataParser();
-        Map<String, JIRADto> map = dataParser.extractDataFromXML("data/entities.xml");
-        map.values().stream().forEach((value) -> {
-            System.out.println(value.toString());
-        });
     }
 }

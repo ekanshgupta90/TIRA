@@ -5,6 +5,8 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -31,7 +33,7 @@ public class TogglDataParser {
      * @param line with comma separated values from CSV.
      * @return a TogglDto format data.
      */
-    private TogglDto getDataFromLine(String line) {
+    private static TogglDto getDataFromLine(String line) {
         TogglDto togglDto = new TogglDto();
         String[] split = line.split(",", -1);
         for (int i = 0; i < split.length; i++) {
@@ -53,35 +55,32 @@ public class TogglDataParser {
      * @param fileName of the csv to be extracted.
      * @return a map with a TogglDTO.
      */
-    public Map<String, TogglDto> extractDataFromCSV(String fileName) {
-        Map<String,TogglDto> csvOutput = new HashMap<>(101);
+    public static List<TogglDto> extractDataFromCSV(String fileName) {
+        List<TogglDto> csvOutput = new LinkedList<>();
         File file = new File(fileName);
+        boolean isFirst = true;
         try {
             BufferedReader reader = new BufferedReader(new FileReader(file));
             
             String line = "";
             while ((line = reader.readLine()) != null) {
+                if (isFirst) {
+                    isFirst = false;
+                    continue;
+                }
                 TogglDto togglDto = getDataFromLine(line);
                 if (togglDto.getDescription() != null && 
                         !togglDto.getDescription().isEmpty()) {
-                    csvOutput.put(line, togglDto);
+                    csvOutput.add(togglDto);
                 }
             }
+            
+            reader.close();
         } catch (Exception e) {
             LOGS.log(Level.SEVERE, e.getMessage());
             throw new RuntimeException(e.getMessage());
         }
         
         return csvOutput;
-    }
-    
-    //TODO remove the main method after testing.
-    public static void main (String[] args) {
-        TogglDataParser parser = new TogglDataParser();
-        Map<String,TogglDto> output = 
-                parser.extractDataFromCSV("data/toggl.csv"); 
-        for (TogglDto out : output.values()) {
-            System.out.println(out.toString());
-        }
     }
 }
