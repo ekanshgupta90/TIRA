@@ -167,23 +167,42 @@ public class TogglDto {
     
     @Override
     public String toString() {
+        String delimit = "#####";
         StringBuilder builder = new StringBuilder();
         builder.append(BaseConstants.TOGGL_USER + ":");
-        builder.append(this.user + "\t");
+        builder.append(this.user + delimit);
         builder.append(BaseConstants.TOGGL_DESC + ":");
-        builder.append(this.description + "\t");
+        builder.append(this.description + delimit);
         builder.append(BaseConstants.TOGGL_START_DATE + ":");
-        builder.append(this.startDate + "\t");
+        builder.append(this.startDate + delimit);
         builder.append(BaseConstants.TOGGL_START_TIME + ":");
-        builder.append(this.startTime + "\t");
+        builder.append(this.startTime + delimit);
         builder.append(BaseConstants.TOGGL_END_DATE + ":");
-        builder.append(this.endDate + "\t");
+        builder.append(this.endDate + delimit);
         builder.append(BaseConstants.TOGGL_END_TIME + ":");
-        builder.append(this.endTime + "\t");
+        builder.append(this.endTime + delimit);
         builder.append(BaseConstants.TOGGL_DURATION + ":");
-        builder.append(this.duration + "\t");       
+        builder.append(this.duration + delimit);       
         builder.append(BaseConstants.TOGGL_TAGS + ":");
-        builder.append(this.tags + "\t");
+        builder.append(this.tags + delimit);
+        return builder.toString();
+    }
+    
+    /**
+     * Just used for testing and printing
+     * @return String. 
+     */
+    public String print() {
+        String delimit = "#####";
+        StringBuilder builder = new StringBuilder();
+        builder.append(this.user + delimit);
+        builder.append(this.description + delimit);
+        builder.append(this.startDate + delimit);
+        builder.append(this.startTime + delimit);
+        builder.append(this.endDate + delimit);
+        builder.append(this.endTime + delimit);
+        builder.append(this.duration + delimit);
+        builder.append(this.tags + delimit);
         return builder.toString();
     }
 }

@@ -18,6 +18,10 @@ public class DateUtils {
      */
     private static final String DATETIMEFORMAT = "yyyy-MM-dd HH:mm:ss";
     /**
+     * The date time format to be used for inserting data to csv output.
+     */
+    private static final String DATETIMEFORMAT4FILE = "yyyy-MM-dd HH-mm-ss";
+    /**
      * The time format to be used for inserting data to csv output.
      */
     private static final String TIMEFORMAT = "HH:mm:ss";
@@ -63,11 +67,17 @@ public class DateUtils {
     /**
      * Inputs a date time and output String.
      * @param date
+     * @param ForFileName
      * @return String
      */
-    public static String convertDateTimeFromDateToString(Date date) {
+    public static String convertDateTimeFromDateToString(Date date, boolean forFileName) {
         try {
-            SimpleDateFormat formatter = new SimpleDateFormat(DATETIMEFORMAT);
+            SimpleDateFormat formatter;
+            if (forFileName) {
+                formatter = new SimpleDateFormat(DATETIMEFORMAT4FILE);
+            } else {
+                formatter = new SimpleDateFormat(DATETIMEFORMAT);
+            }
             return formatter.format(date);
         } catch (Exception e) {
             throw new RuntimeException("Error in parsing date.");

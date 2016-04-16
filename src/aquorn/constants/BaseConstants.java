@@ -91,4 +91,8 @@ public class BaseConstants {
      * The file name used for exporting.
      */
     public static String OUTPUT_FILE_NAME = "Toggl_JIRA_Combine_";
+    /**
+     * 
+     */
+    public static String OUTPUT_FILE_HEADER = "WEEK,START DATE,START TIME,END DATE,END TIME,DURATION,USER,DESCRIPTION,ALLOCATED TIME,DUE DATE,JIRA ID,JIRA STATUS,TAGS";
 }

@@ -4,6 +4,7 @@ import aquorn.dto.TogglDto;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
@@ -35,17 +36,30 @@ public class TogglDataParser {
      */
     private static TogglDto getDataFromLine(String line) {
         TogglDto togglDto = new TogglDto();
-        String[] split = line.split(",", -1);
+        String[] split = line.split("\\\"", -1);
+        List<String> actualList = new ArrayList<>();
+        boolean inQuotes = false;
         for (int i = 0; i < split.length; i++) {
-            togglDto.setUser(split[0]);
-            togglDto.setDescription(split[5]);
-            togglDto.setStartDate(split[7]);
-            togglDto.setStartTime(split[8]);
-            togglDto.setEndDate(split[9]);
-            togglDto.setEndTime(split[10]);
-            togglDto.setDuration(split[11]);
-            togglDto.setTags(split[12]);
+            if (!inQuotes) {
+                String[] str = split[i].split(",");
+                for (int j = 0; j < str.length; j++) {
+                   actualList.add(str[j]);
+                }
+                inQuotes = true;
+            } else {
+                actualList.add("\"" + split[i] + "\"");
+                inQuotes = false;
+            }
         }
+        
+        togglDto.setUser(actualList.get(0));
+        togglDto.setDescription(actualList.get(5));
+        togglDto.setStartDate(actualList.get(7));
+        togglDto.setStartTime(actualList.get(8));
+        togglDto.setEndDate(actualList.get(9));
+        togglDto.setEndTime(actualList.get(10));
+        togglDto.setDuration(actualList.get(11));
+        togglDto.setTags(actualList.get(12));
         return togglDto;
     }
     
@@ -82,5 +96,13 @@ public class TogglDataParser {
         }
         
         return csvOutput;
+    }
+    
+    public static void main(String args[]) {
+        List<TogglDto> list = TogglDataParser.extractDataFromCSV("data/toggl.csv");
+        int i = 1;
+        for (TogglDto dto : list) {
+            System.out.println((i++) + ". " + dto.print());
+        }
     }
 }

@@ -1,19 +1,14 @@
 package aquorn.filegenerator;
 
 import aquorn.constants.BaseConstants;
-import aquorn.csvparser.TogglDataParser;
 import aquorn.dto.CombinedDto;
-import aquorn.dto.JIRADto;
-import aquorn.dto.TogglDto;
 import aquorn.processor.DataIntegrator;
 import aquorn.utils.DateUtils;
-import aquorn.xmlparser.JIRADataParser;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.util.Date;
 import java.util.List;
-import java.util.Map;
 
 /**
  * This file converts data to csv and exports it.
@@ -27,7 +22,7 @@ public class ExportToCSV {
      * @return 
      */
     public String exportCombinedData(List<CombinedDto> exportList, String path) {
-        String fileName = BaseConstants.OUTPUT_FILE_NAME + DateUtils.convertDateFromDateToString(new Date()) + ".csv";
+        String fileName = BaseConstants.OUTPUT_FILE_NAME + DateUtils.convertDateTimeFromDateToString(new Date(), true) + ".csv";
         File file = new File(fileName);
         try {
             if (!file.exists()) {
@@ -35,6 +30,7 @@ public class ExportToCSV {
             }
             BufferedWriter writer = new BufferedWriter(new FileWriter(file));
             
+            writer.write(BaseConstants.OUTPUT_FILE_HEADER + "\n");
             for (CombinedDto dto : exportList) {
                 writer.write(dto.toString());
             }

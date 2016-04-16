@@ -58,7 +58,7 @@ public class DataIntegrator {
             outputList.add(dto);
         }
         
-        return null;
+        return outputList;
     }
     
     /**
