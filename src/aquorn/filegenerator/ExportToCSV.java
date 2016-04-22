@@ -21,13 +21,15 @@ public class ExportToCSV {
      * @param path
      * @return 
      */
-    public String exportCombinedData(List<CombinedDto> exportList, String path) {
+    public static String exportCombinedData(List<CombinedDto> exportList, String path) {
         String fileName = BaseConstants.OUTPUT_FILE_NAME + DateUtils.convertDateTimeFromDateToString(new Date(), true) + ".csv";
         File file = new File(fileName);
         try {
+            System.out.println("##Writing the merged data to CSV file");
             if (!file.exists()) {
                 file.createNewFile();
             }
+            System.out.println("##Output File Name" + fileName);
             BufferedWriter writer = new BufferedWriter(new FileWriter(file));
             
             writer.write(BaseConstants.OUTPUT_FILE_HEADER + "\n");
@@ -35,6 +37,7 @@ public class ExportToCSV {
                 writer.write(dto.toString());
             }
             writer.close();
+            System.out.println("##Data write complete!");
         } catch (Exception e) {
             throw new RuntimeException();
         }
@@ -44,8 +47,9 @@ public class ExportToCSV {
     public static void main (String[] args) {
         ExportToCSV export = new ExportToCSV();
         try {
+            String url = "https://aquorn.atlassian.net/sr/jira.issueviews:searchrequest-xml/temp/SearchRequest.xml?jqlQuery=&tempMax=1000";
             List<CombinedDto> CombinedList = 
-                    DataIntegrator.integrateData("data/entities.xml", "data/toggl.csv");
+                    DataIntegrator.integrateDataFromJIRARss(url, "data/toggl.csv", "egupta", "Reg.3354");
             export.exportCombinedData(CombinedList, "");
         } catch (Exception e) {
             e.printStackTrace();

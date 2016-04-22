@@ -1,13 +1,13 @@
 ﻿User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount (USD)
-Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Decision Making,Yes,2016-01-02,13:00:00,2016-01-02,13:30:00,00:30:00,Reading,0.00
-Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team meeting,Yes,2016-01-11,12:00:00,2016-01-11,13:30:00,01:30:00,"Meeting, Team Meeting",0.00
-Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Initial team meeting,Yes,2016-01-11,12:00:00,2016-01-11,13:30:00,01:30:00,Team Meeting,0.00
-Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-11,12:00:46,2016-01-11,12:02:05,00:01:19,TeamMeeting,0.00
-Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-11,12:00:59,2016-01-11,13:00:59,01:00:00,Team Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Decision Making DEV-50,Yes,2016-01-02,13:00:00,2016-01-02,13:30:00,00:30:00,Reading,0.00
+Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Team DEV-50 meeting,Yes,2016-01-11,12:00:00,2016-01-11,13:30:00,01:30:00,"Meeting, Team Meeting",0.00
+Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,Initial DEV-50 team meeting,Yes,2016-01-11,12:00:00,2016-01-11,13:30:00,01:30:00,Team Meeting,0.00
+Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,DEV-50 Team Meeting,Yes,2016-01-11,12:00:46,2016-01-11,12:02:05,00:01:19,TeamMeeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,, DEV-50 Team Meeting,Yes,2016-01-11,12:00:59,2016-01-11,13:00:59,01:00:00,Team Meeting,0.00
 Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Team Meeting,Yes,2016-01-11,12:30:24,2016-01-11,13:30:26,01:00:02,Team Meeting,0.00
 Yang Wang,luanshixia@gmail.com,,17671 Software Development Studio I,,Mentor meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:00:00,01:00:00,"Meeting, Mentor Meeting",0.00
-Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:16:25,01:16:25,Mentor Meeting,0.00
-Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor Meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:00:00,01:00:00,Mentor Meeting,0.00
+Ekansh Gupta,egupta@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor DEV-51 Meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:16:25,01:16:25,Mentor Meeting,0.00
+Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Mentor dev-51 Meeting,Yes,2016-01-12,12:00:00,2016-01-12,13:00:00,01:00:00,Mentor Meeting,0.00
 Nishitas,nishitas@andrew.cmu.edu,,17671 Software Development Studio I,,Mentor Meeting,No,2016-01-12,12:00:15,2016-01-12,13:16:14,01:15:59,MentorMeeting,
 Jonathan,jfbender@cmu.edu,,17671 Software Development Studio I,,"Initial meeting with mentors (Mel, Andrew M)",Yes,2016-01-12,12:00:59,2016-01-12,13:16:15,01:15:16,Mentor Meeting,0.00
 Ashutosh Dube,aashutosh.dube@gmail.com,,17671 Software Development Studio I,,Boot Camp,Yes,2016-01-12,13:30:00,2016-01-12,14:50:00,01:20:00,Bootcamp,0.00

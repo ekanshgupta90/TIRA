@@ -74,9 +74,16 @@ public class TogglDataParser {
         File file = new File(fileName);
         boolean isFirst = true;
         try {
+            System.out.println("####Checking for Toggl file exist at " + fileName);
+            if (!file.exists()) {
+                System.err.println("Error: Toggl file not found!");
+                return new ArrayList<>();
+            }
+            System.out.println("####Reading data from the Toggl file");
             BufferedReader reader = new BufferedReader(new FileReader(file));
             
             String line = "";
+            System.out.println("####Extracting data from the Toggl data");
             while ((line = reader.readLine()) != null) {
                 if (isFirst) {
                     isFirst = false;
@@ -90,6 +97,7 @@ public class TogglDataParser {
             }
             
             reader.close();
+            System.out.println("####Toggl data extraction complete!");
         } catch (Exception e) {
             LOGS.log(Level.SEVERE, e.getMessage());
             throw new RuntimeException(e.getMessage());

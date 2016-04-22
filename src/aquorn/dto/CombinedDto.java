@@ -1,5 +1,8 @@
 package aquorn.dto;
 
+import aquorn.constants.BaseConstants;
+import aquorn.utils.DateUtils;
+
 /**
  * This data transfer class stores the combined data of Toggl and JIRA.
  * The method extends togglDto because we need to keep all the items from 
@@ -27,6 +30,7 @@ public class CombinedDto extends TogglDto {
         setEndTime(toggl.getEndTime());
         setDuration(toggl.getDuration());
         setTags(toggl.getTags());
+        setWeek((DateUtils.getWeekNumberFromStartingDate(BaseConstants.SEM_START_DATE, toggl.getStartDate()) + 1) + "");
     }
     /**
      * Key for an issue.

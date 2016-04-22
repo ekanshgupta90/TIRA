@@ -11,7 +11,7 @@ package aquorn.constants;
  */
 public class BaseConstants {
     /***************************************************************************
-     * JIRA Constants - START
+     * JIRA Issue Constants - START
      **************************************************************************/
     /**
      * An issue's due date.
@@ -46,7 +46,26 @@ public class BaseConstants {
      */
     public static String JIRA_TIME_ESTIMATE = "timeoriginalestimate";
     /***************************************************************************
-     * JIRA Constants - END
+     * JIRA Issue Constants - END
+     **************************************************************************/
+    
+    /***************************************************************************
+     * JIRA Item Constants - START
+     **************************************************************************/
+    /**
+     * An item's due date.
+     */
+    public static String JIRA_ITEM_DUE_DATE = "due";
+    /**
+     * An items direct access url.
+     */
+    public static String JIRA_URL = "link";
+    /**
+     * An item's title.
+     */
+    public static String JIRA_TITLE = "title";
+    /***************************************************************************
+     * JIRA Item Constants - END
      **************************************************************************/
     
     /***************************************************************************
@@ -95,4 +114,8 @@ public class BaseConstants {
      * 
      */
     public static String OUTPUT_FILE_HEADER = "WEEK,START DATE,START TIME,END DATE,END TIME,DURATION,USER,DESCRIPTION,ALLOCATED TIME,DUE DATE,JIRA ID,JIRA STATUS,TAGS";
+    /**
+     * Start date for the semester.
+     */
+    public static String SEM_START_DATE = "2016-01-12";
 }
