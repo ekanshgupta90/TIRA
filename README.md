@@ -5,11 +5,11 @@ The project is an attempt to combine Toggl and JIRA data to draw earn value char
 
 Command-line run
 
-1. Goto to the dist folder in the root directory. 
+Goto to the dist folder in the root directory. 
 
 cd <path>/dist
 
-2. Use the following java command
+Use the following java command
 
 java -jar "JIRA URL" "Toggl CSV" "your username" "your password"
 
