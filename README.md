@@ -2,14 +2,19 @@
 The project is an attempt to combine Toggl and JIRA data to draw earn value charts.
 
 #Running TIRA
+
 Command-line run
+
 1. Goto to the dist folder in the root directory. 
+
 cd <path>/dist
 
 2. Use the following java command
+
 java -jar "JIRA URL" "Toggl CSV" "your username" "your password"
 
 Example - 
+
 java -jar TIRA.jar "https://aquorn.atlassian.net/sr/jira.issueviews:searchrequest-xml/temp/SearchRequest.xml?jqlQuery=&tempMax=1000" "../data/Toggl.csv" "username" "password"
 
 #SETUP
@@ -17,8 +22,11 @@ This is a netbeans project. This has been created in netbean to make it easy to 
 Import the code and open as existing project in Netbeans with Java 8.
 
 #Folders
+
 data - contains data files for testing
+
 src - contains source code
+
 dist - contains the latest build JAR
 
 #Packages
