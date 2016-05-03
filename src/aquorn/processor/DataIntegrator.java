@@ -14,6 +14,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  * This class uses data extracted from Toggl and JIRA to combine into a 
@@ -46,7 +48,7 @@ public class DataIntegrator {
             CombinedDto dto = new CombinedDto(toggl);
             String description = dto.getDescription().toLowerCase();
             for (String key : jiraMap.keySet()) {
-                if (description.contains(key)) {
+                if (isContain(description, key)) {
                     JIRADto jIRADto = jiraMap.get(key);
                     dto.setKey(key);
                     dto.setStatus(jIRADto.getStatus());
@@ -119,7 +121,7 @@ public class DataIntegrator {
         try {
             jiraOutputMap = jiraParser.extractDataFromRSSFeed(jiraURL, username, password);
         } catch (RuntimeException e) {
-            LOGS.log(Level.SEVERE, CLASSNAME + ":" + METHODNAME, "Failed to extract data from JIRA XML.");
+            System.err.println(CLASSNAME + ":" + METHODNAME + "Failed to extract data from JIRA XML.");
             throw new RuntimeException(e.getMessage());
         }
         
@@ -128,12 +130,24 @@ public class DataIntegrator {
         try {
             togglOutputList = togglParser.extractDataFromCSV(togglFileName);
         } catch (RuntimeException e) {
-            LOGS.log(Level.SEVERE, CLASSNAME + ":" + METHODNAME, "Failed to extract data from Toggl CSV.");
+            System.err.println(CLASSNAME + ":" + METHODNAME + "Failed to extract data from Toggl CSV.");
             throw new RuntimeException(e.getMessage());
         }
         
         Collections.sort(togglOutputList, new TogglDateWiseSort());
         System.out.println("##Merging Toggl and JIRA data");
         return mergeData(jiraOutputMap, togglOutputList); 
+    }
+    /**
+     * Checking for exact Task name in the Toggl Description.
+     * @param source
+     * @param subItem
+     * @return True or False.
+     */
+    private static boolean isContain(String source, String subItem){
+         String pattern = "\\b"+subItem+"\\b";
+         Pattern p=Pattern.compile(pattern);
+         Matcher m=p.matcher(source);
+         return m.find();
     }
 }
